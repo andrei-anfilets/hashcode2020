@@ -1,0 +1,6 @@
+D:\Prog\Pzz2\Practice\HashCode2020\bin\Debug\HashCode2020.exe.config
+D:\Prog\Pzz2\Practice\HashCode2020\bin\Debug\HashCode2020.exe
+D:\Prog\Pzz2\Practice\HashCode2020\bin\Debug\HashCode2020.pdb
+D:\Prog\Pzz2\Practice\HashCode2020\obj\Debug\HashCode2020.csprojAssemblyReference.cache
+D:\Prog\Pzz2\Practice\HashCode2020\obj\Debug\HashCode2020.exe
+D:\Prog\Pzz2\Practice\HashCode2020\obj\Debug\HashCode2020.pdb
