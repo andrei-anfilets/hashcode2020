@@ -9,7 +9,7 @@ using System.Windows.Forms.DataVisualization.Charting;
 
 namespace Practice
 {
-    //main class develop version
+    //main class develop version + bomba
     class Program
     {
         private static string a = "a_example.txt";
