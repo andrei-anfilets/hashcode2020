@@ -9,7 +9,7 @@ using System.Windows.Forms.DataVisualization.Charting;
 
 namespace Practice
 {
-    //main class
+    //main class develop version
     class Program
     {
         private static string a = "a_example.txt";
